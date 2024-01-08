@@ -12,7 +12,7 @@ Welcome to my 3D personal portfolio! This project showcases my skills, projects,
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Technologies Used](#technologies-used)
-- [License](#license)
+
 
 ## About
 The about section of the portfolio provides information about me, my background, skills, and interests.
@@ -27,13 +27,13 @@ The contact page offers different ways to get in touch with me. Feel free to rea
 To set up the project locally, follow these steps:
 
 1. **Clone the repository:**
-   ```bash
+```bash
    git clone https://github.com/your-username/your-portfolio.git
-   ```
+```
 2. **Navigate to the project directory:**
-  ```bash
+```bash
   cd your-portfolio
-  ```
+```
 3.**Install dependencies:**
 ```bash
   npm install
@@ -91,8 +91,6 @@ Blender
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request.
 
-## License
-This project is licensed under the [Your License Name] - see the LICENSE.md file for details.
 
 Feel free to customize this README file according to your project's specific details and structure. If you have any badges, additional sections, or specific instructions for contributors, make sure to include them as needed.
 
