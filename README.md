@@ -32,7 +32,7 @@ To set up the project locally, follow these steps:
 ```
 2. **Navigate to the project directory:**
 ```bash
-  cd your-portfolio
+  cd 3d_portfolio
 ```
 3.**Install dependencies:**
 ```bash
@@ -42,10 +42,7 @@ To set up the project locally, follow these steps:
   ```bash
   npm run dev
   ```
-5. **Navigate to the project directory:**
-  ```bash
-  cd your-portfolio
-  ```
+
 
 ## Technologies Used
 HTML
