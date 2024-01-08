@@ -68,9 +68,14 @@ Blender
 
 
 ## Screenshots
-![About Section](./screenshots/about-section.png)
-![Projects Section](./screenshots/projects-section.png)
-![Contact Page](./screenshots/contact-page.png)
+![Screenshot 2024-01-08 at 9 57 31 PM](https://github.com/Saty-am02/3d_portfolio/assets/88832726/e7b2dd2f-76c8-4aa4-80c6-8d31c12854c3)
+
+![Screenshot 2024-01-08 at 9 57 43 PM](https://github.com/Saty-am02/3d_portfolio/assets/88832726/40818667-ab85-4669-965d-a35f532aa8f0)
+
+![Screenshot 2024-01-08 at 9 58 02 PM](https://github.com/Saty-am02/3d_portfolio/assets/88832726/4f311df0-3aab-425c-833f-5ffa7a1bd9fb)
+
+![Screenshot 2024-01-08 at 9 58 17 PM](https://github.com/Saty-am02/3d_portfolio/assets/88832726/733e54dc-9156-406b-b699-d1c0f31fcc94)
+
 
 
 ## Usage
