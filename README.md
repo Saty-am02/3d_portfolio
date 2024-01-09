@@ -89,5 +89,4 @@ Blender
 5. Submit a pull request.
 
 
-Feel free to customize this README file according to your project's specific details and structure. If you have any badges, additional sections, or specific instructions for contributors, make sure to include them as needed.
 
